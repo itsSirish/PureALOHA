@@ -1,2 +1,2 @@
 # PureALOHA
-Repository containing files for onmnet++ simulation of Pure ALOHA protocol
+Repository containing files for onmnet++ simulation files of Pure ALOHA protocol
